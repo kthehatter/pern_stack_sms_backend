@@ -1,2 +1,2 @@
-# pern_stack_sms
-school management system
+# pern_stack_sms_backend
+school management system backend

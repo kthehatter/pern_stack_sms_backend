@@ -1,0 +1,168 @@
+{'timestamp':'2022-02-05T16:49:32.473Z',  'level':'[31merror[39m', 'message':'WHERE parameter "user_id" has invalid "undefined" value WHERE parameter "user_id" has invalid "undefined" value'}
+{'timestamp':'2022-02-05T17:25:49.796Z',  'level':'[31merror[39m', 'message':'Cannot read property 'emit' of undefined Cannot read property 'emit' of undefined'}
+{'timestamp':'2022-02-05T18:26:27.904Z',  'level':'[31merror[39m', 'message':'invalid input syntax for type uuid: "undefined" invalid input syntax for type uuid: "undefined"'}
+{'timestamp':'2022-02-05T18:29:37.581Z',  'level':'[31merror[39m', 'message':'invalid input syntax for type uuid: "undefined" invalid input syntax for type uuid: "undefined"'}
+{'timestamp':'2022-02-05T18:31:35.724Z',  'level':'[31merror[39m', 'message':'Cannot read property 'socketID' of undefined Cannot read property 'socketID' of undefined'}
+{'timestamp':'2022-02-05T18:32:41.431Z',  'level':'[31merror[39m', 'message':'Cannot read property 'socketID' of undefined Cannot read property 'socketID' of undefined'}
+{'timestamp':'2022-02-05T18:33:35.324Z',  'level':'[31merror[39m', 'message':'Cannot read property 'socketID' of undefined Cannot read property 'socketID' of undefined'}
+{'timestamp':'2022-02-05T18:54:46.542Z',  'level':'[31merror[39m', 'message':'invalid input syntax for type uuid: "undefined" invalid input syntax for type uuid: "undefined"'}
+{'timestamp':'2022-02-06T14:17:55.683Z',  'level':'[31merror[39m', 'message':'Cannot access 'conversations' before initialization Cannot access 'conversations' before initialization'}
+{'timestamp':'2022-02-06T14:17:58.139Z',  'level':'[31merror[39m', 'message':'Cannot access 'conversations' before initialization Cannot access 'conversations' before initialization'}
+{'timestamp':'2022-02-06T14:17:59.436Z',  'level':'[31merror[39m', 'message':'Cannot access 'conversations' before initialization Cannot access 'conversations' before initialization'}
+{'timestamp':'2022-02-06T14:18:27.494Z',  'level':'[31merror[39m', 'message':'column "read_status" does not exist column "read_status" does not exist'}
+{'timestamp':'2022-02-06T14:18:54.300Z',  'level':'[31merror[39m', 'message':'operator does not exist: character varying = integer operator does not exist: character varying = integer'}
+{'timestamp':'2022-02-06T14:19:36.078Z',  'level':'[31merror[39m', 'message':'operator does not exist: character varying = integer operator does not exist: character varying = integer'}
+{'timestamp':'2022-02-06T14:19:45.256Z',  'level':'[31merror[39m', 'message':'operator does not exist: character varying = integer operator does not exist: character varying = integer'}
+{'timestamp':'2022-02-06T14:20:58.902Z',  'level':'[31merror[39m', 'message':'conversationMessages is not defined conversationMessages is not defined'}
+{'timestamp':'2022-02-06T21:36:36.422Z',  'level':'[31merror[39m', 'message':'pageNumber is not defined pageNumber is not defined'}
+{'timestamp':'2022-02-06T21:37:44.927Z',  'level':'[31merror[39m', 'message':'pageNumber is not defined pageNumber is not defined'}
+{'timestamp':'2022-02-06T21:38:44.712Z',  'level':'[31merror[39m', 'message':'conversations is not defined conversations is not defined'}
+{'timestamp':'2022-02-08T21:00:08.158Z',  'level':'[31merror[39m', 'message':'Cannot read property 'user_id' of undefined Cannot read property 'user_id' of undefined'}
+{'timestamp':'2022-02-08T21:03:03.567Z',  'level':'[31merror[39m', 'message':'Cannot read property 'user_id' of undefined Cannot read property 'user_id' of undefined'}
+{'timestamp':'2022-02-08T21:03:15.039Z',  'level':'[31merror[39m', 'message':'Cannot read property 'user_id' of undefined Cannot read property 'user_id' of undefined'}
+{'timestamp':'2022-02-08T21:04:07.034Z',  'level':'[31merror[39m', 'message':'Cannot read property 'user_id' of undefined Cannot read property 'user_id' of undefined'}
+{'timestamp':'2022-02-08T21:04:12.128Z',  'level':'[31merror[39m', 'message':'Cannot read property 'user_id' of undefined Cannot read property 'user_id' of undefined'}
+{'timestamp':'2022-02-08T21:04:56.145Z',  'level':'[31merror[39m', 'message':'Cannot read property 'user_id' of undefined Cannot read property 'user_id' of undefined'}
+{'timestamp':'2022-02-08T21:04:57.608Z',  'level':'[31merror[39m', 'message':'Cannot read property 'user_id' of undefined Cannot read property 'user_id' of undefined'}
+{'timestamp':'2022-02-08T21:05:50.923Z',  'level':'[31merror[39m', 'message':'Cannot read property 'user_id' of undefined Cannot read property 'user_id' of undefined'}
+{'timestamp':'2022-02-08T21:06:29.408Z',  'level':'[31merror[39m', 'message':'Cannot read property 'user_id' of undefined Cannot read property 'user_id' of undefined'}
+{'timestamp':'2022-02-08T21:06:32.135Z',  'level':'[31merror[39m', 'message':'Cannot read property 'user_id' of undefined Cannot read property 'user_id' of undefined'}
+{'timestamp':'2022-02-08T21:06:32.336Z',  'level':'[31merror[39m', 'message':'Cannot read property 'user_id' of undefined Cannot read property 'user_id' of undefined'}
+{'timestamp':'2022-02-08T23:33:28.038Z',  'level':'[31merror[39m', 'message':'Cannot read property 'message' of undefined Cannot read property 'message' of undefined'}
+{'timestamp':'2022-02-08T23:36:24.454Z',  'level':'[31merror[39m', 'message':'Cannot read property 'message' of undefined Cannot read property 'message' of undefined'}
+{'timestamp':'2022-02-08T23:36:34.444Z',  'level':'[31merror[39m', 'message':'Cannot read property 'message' of undefined Cannot read property 'message' of undefined'}
+{'timestamp':'2022-02-08T23:37:28.431Z',  'level':'[31merror[39m', 'message':'Cannot read property 'message' of undefined Cannot read property 'message' of undefined'}
+{'timestamp':'2022-02-08T23:37:58.312Z',  'level':'[31merror[39m', 'message':'Cannot read property 'message' of undefined Cannot read property 'message' of undefined'}
+{'timestamp':'2022-02-08T23:38:01.857Z',  'level':'[31merror[39m', 'message':'Cannot read property 'message' of undefined Cannot read property 'message' of undefined'}
+{'timestamp':'2022-02-08T23:38:28.527Z',  'level':'[31merror[39m', 'message':'Cannot read property 'message' of undefined Cannot read property 'message' of undefined'}
+{'timestamp':'2022-02-08T23:38:32.849Z',  'level':'[31merror[39m', 'message':'Cannot read property 'message' of undefined Cannot read property 'message' of undefined'}
+{'timestamp':'2022-02-08T23:38:53.332Z',  'level':'[31merror[39m', 'message':'Cannot read property 'message' of undefined Cannot read property 'message' of undefined'}
+{'timestamp':'2022-02-08T23:40:24.546Z',  'level':'[31merror[39m', 'message':'Cannot read property 'message' of undefined Cannot read property 'message' of undefined'}
+{'timestamp':'2022-02-10T13:15:57.385Z',  'level':'[31merror[39m', 'message':'Cannot read property 'user_id' of undefined Cannot read property 'user_id' of undefined'}
+{'timestamp':'2022-02-10T13:21:28.755Z',  'level':'[31merror[39m', 'message':'Cannot read property 'user_id' of undefined Cannot read property 'user_id' of undefined'}
+{'timestamp':'2022-02-10T13:22:48.936Z',  'level':'[31merror[39m', 'message':'Cannot read property 'user_id' of undefined Cannot read property 'user_id' of undefined'}
+{'timestamp':'2022-02-10T13:22:58.333Z',  'level':'[31merror[39m', 'message':'Cannot read property 'user_id' of undefined Cannot read property 'user_id' of undefined'}
+{'timestamp':'2022-02-10T13:24:49.034Z',  'level':'[31merror[39m', 'message':'Cannot read property 'user_id' of undefined Cannot read property 'user_id' of undefined'}
+{'timestamp':'2022-02-10T13:25:14.662Z',  'level':'[31merror[39m', 'message':'Cannot read property 'user_id' of undefined Cannot read property 'user_id' of undefined'}
+{'timestamp':'2022-02-10T13:25:29.345Z',  'level':'[31merror[39m', 'message':'Cannot read property 'first_name' of undefined Cannot read property 'first_name' of undefined'}
+{'timestamp':'2022-02-10T13:26:38.491Z',  'level':'[31merror[39m', 'message':'Cannot read property 'first_name' of undefined Cannot read property 'first_name' of undefined'}
+{'timestamp':'2022-02-10T13:28:19.230Z',  'level':'[31merror[39m', 'message':'Cannot read property 'first_name' of undefined Cannot read property 'first_name' of undefined'}
+{'timestamp':'2022-02-10T17:24:49.590Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:24:49.615Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:25:37.927Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:25:37.931Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:25:44.298Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:25:44.301Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:25:56.677Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:25:56.697Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:26:47.068Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:26:47.087Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:30:06.074Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:30:06.078Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:30:06.143Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:30:08.981Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:30:08.985Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:30:09.062Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:31:44.196Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:31:44.206Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:36:42.172Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:36:43.067Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:36:43.090Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:36:43.140Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:38:57.220Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:38:57.253Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:39:00.579Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:39:04.882Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:39:04.885Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:39:04.972Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:39:26.054Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:39:28.568Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:39:28.570Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-10T17:39:28.617Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-11T20:40:37.812Z',  'level':'[31merror[39m', 'message':'values.map is not a function values.map is not a function'}
+{'timestamp':'2022-02-11T20:54:57.109Z',  'level':'[31merror[39m', 'message':'column "images" of relation "posts" does not exist column "images" of relation "posts" does not exist'}
+{'timestamp':'2022-02-11T20:55:55.921Z',  'level':'[31merror[39m', 'message':'column "images" of relation "posts" does not exist column "images" of relation "posts" does not exist'}
+{'timestamp':'2022-02-11T21:58:16.021Z',  'level':'[31merror[39m', 'message':'auto is not defined auto is not defined'}
+{'timestamp':'2022-02-11T22:02:19.112Z',  'level':'[31merror[39m', 'message':'Class constructor URL cannot be invoked without 'new' Class constructor URL cannot be invoked without 'new''}
+{'timestamp':'2022-02-11T22:21:35.100Z',  'level':'[31merror[39m', 'message':'column "user_name" does not exist column "user_name" does not exist'}
+{'timestamp':'2022-02-11T22:23:48.041Z',  'level':'[31merror[39m', 'message':'notNull Violation: posts.user_name cannot be null notNull Violation: posts.user_name cannot be null'}
+{'timestamp':'2022-02-11T22:24:13.772Z',  'level':'[31merror[39m', 'message':'notNull Violation: posts.user_name cannot be null notNull Violation: posts.user_name cannot be null'}
+{'timestamp':'2022-02-12T16:55:34.351Z',  'level':'[31merror[39m', 'message':'Invalid image file Invalid image file'}
+{'timestamp':'2022-02-12T16:57:58.587Z',  'level':'[31merror[39m', 'message':'Invalid image file Invalid image file'}
+{'timestamp':'2022-02-12T17:37:56.292Z',  'level':'[31merror[39m', 'message':'OFFSET must not be negative OFFSET must not be negative'}
+{'timestamp':'2022-02-12T17:42:43.030Z',  'level':'[31merror[39m', 'message':'OFFSET must not be negative OFFSET must not be negative'}
+{'timestamp':'2022-02-13T23:06:07.407Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:06:07.413Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:06:07.417Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:06:07.754Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:06:07.758Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:07:16.810Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:07:19.421Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:07:19.422Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:07:19.428Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:07:19.514Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:07:19.516Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:08:31.873Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:08:31.878Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:08:31.880Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:08:33.205Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:08:33.207Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:08:33.218Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:08:33.317Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:08:33.321Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:08:34.838Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:08:36.022Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:08:36.024Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:08:36.031Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:08:36.224Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:08:36.227Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:09:58.188Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:09:58.193Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:09:58.277Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:09:58.283Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:10:17.422Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:10:17.425Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:10:17.428Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:10:57.694Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:10:57.699Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:10:59.058Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:10:59.060Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:10:59.065Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:12:25.865Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:12:25.869Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:12:25.871Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:12:27.821Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:12:27.823Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:12:27.829Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:13:57.763Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:13:57.771Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:13:59.665Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:13:59.667Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:14:10.839Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:14:12.068Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:14:13.093Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:14:23.520Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:14:23.703Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:14:23.886Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:14:24.267Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-13T23:14:24.894Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:25:12.551Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:25:12.555Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:25:12.559Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:25:12.662Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:25:12.665Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:25:12.672Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:25:47.864Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:25:51.049Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:26:19.669Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:26:19.674Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:26:19.677Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:26:44.669Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:26:44.674Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:26:44.676Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:32:08.805Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:37:15.673Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:40:40.043Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:40:43.340Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:40:45.194Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
+{'timestamp':'2022-02-14T21:42:57.674Z',  'level':'[31merror[39m', 'message':'invalid signature invalid signature'}
